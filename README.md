@@ -26,5 +26,20 @@ AWS를 사용한 서버리스 구축.
 ### 비디오 트랜스 코딩을 위한 기본적인 이벤트 주도 시스템 생성
 ### Simple Storage Service, Simple Notification Service 및 Elastic Transcoder와 같은 AWS 기능 사용.
 
+## 아키택처
+- 백앤드 컴퓨팅
+- 연결형 컴퓨팅
+- 레거기 API 레퍼
+- 하이브리드
+- GraphQL
+- 실시간 처리
+
+## 패턴
+- 명령 패턴
+- 메시징 패턴
+- 우선 순위 큐 패턴
+- 팬아웃 패턴
+- 파이프 및 필터 패턴
+
 ## 참고 서적
 - AWS 기반 서버리스 아키텍처(위키북스)
